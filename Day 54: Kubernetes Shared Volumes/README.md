@@ -3,7 +3,7 @@
 ## Overview
 This project demonstrates how to share a volume between multiple containers within a single Kubernetes pod. This is useful for scenarios where containers need to exchange data or share temporary files.
 
-## Architecture
+## Architecture 
 - **Pod Name**: `volume-share-datacenter`
 - **Containers**: 2 Debian containers
 - **Volume Type**: `emptyDir` (ephemeral storage)
