@@ -94,7 +94,7 @@ This repository documents my **100 Days of DevOps Challenge**, where I practiced
 * **Day 70:** Configure Jenkins User Access
 * **Day 71:** Jenkins Job for Package Installation
 * **Day 72:** Jenkins Parameterized Builds
-* **Day 73:** Jenkins Scheduled Jobs
+* **Day 73:** Jenkins Scheduled Jobs 
 * **Day 74:** Jenkins Database Backup Job
 * **Day 75:** Jenkins Slave Nodes
 * **Day 76:** Jenkins Project Security
