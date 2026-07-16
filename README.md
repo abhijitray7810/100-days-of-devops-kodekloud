@@ -143,9 +143,3 @@ This repository documents my **100 Days of DevOps Challenge**, where I practiced
 * Real-world **troubleshooting and automation** experience
 
 ---
-
-## 📌 Conclusion
-
-Completing this **100 Days DevOps Challenge** significantly strengthened my practical DevOps skills and confidence in managing modern cloud-native infrastructure.
-
-⭐ If you find this repository helpful, feel free to star it!
