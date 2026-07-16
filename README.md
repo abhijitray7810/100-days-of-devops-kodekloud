@@ -105,7 +105,7 @@ This repository documents my **100 Days of DevOps Challenge**, where I practiced
 * **Day 81:** Jenkins Multistage Pipeline
 
 ---
-
+ 
 ## ⚙️ Ansible (Day 82–93)
 
 * **Day 82:** Create Ansible Inventory for App Server Testing
