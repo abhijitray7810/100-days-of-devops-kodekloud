@@ -8,7 +8,7 @@ This deployment creates a single pod running the latest version of the Apache HT
 
 ## Pod Specifications
 
-- **Pod Name**: `pod-httpd`
+- **Pod Name**: `pod-httpd` 
 - **Container Name**: `httpd-container`
 - **Image**: `httpd:latest`
 - **Labels**: `app=httpd_app`
