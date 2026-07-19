@@ -1,6 +1,6 @@
 # Nginx PHP-FPM Kubernetes Troubleshooting Guide
 
-## Overview 
+## Overview  
 
 This guide provides step-by-step instructions to troubleshoot and fix an Nginx and PHP-FPM setup running in a Kubernetes cluster. The issue involves a pod named `nginx-phpfpm` that has halted its functionality due to configuration problems.
 
