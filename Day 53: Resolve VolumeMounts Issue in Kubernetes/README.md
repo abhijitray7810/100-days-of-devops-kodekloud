@@ -8,8 +8,7 @@ This guide provides step-by-step instructions to troubleshoot and fix an Nginx a
 
 The Nginx and PHP-FPM setup on the Kubernetes cluster encountered an issue that stopped it from working properly. The pod contains two containers:
 - `nginx-container`: Serves web requests
-- `php-fpm-container`: Processes PHP scripts
-
+- `php-fpm-container`: Processes PHP scripts 
 ## Environment Details
 
 - **Pod Name**: `nginx-phpfpm`
