@@ -3,7 +3,7 @@
 This repository contains the Kubernetes manifest for deploying an Apache HTTP Server (httpd) pod. 
    
 ## Overview
-
+ 
 This deployment creates a single pod running the latest version of the Apache HTTP Server using the official `httpd` Docker image.
 
 ## Pod Specifications
